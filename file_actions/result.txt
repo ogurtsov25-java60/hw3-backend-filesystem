@@ -1,0 +1,5 @@
+1.Total fares:28693.949299999967 
+2.Average fare for 1,2,3 classes of travel:{"firstClassAverage":84.15468749999992,"secondClassAverage":20.66218315217391,"thirdClassAverage":13.675550101832997}
+3.Total quantity of survived and non survived passengers:{"survied":342,"non_survived":549} 
+4.Total quantity of survived and non survived passengers by gender: {"survived":{"men":70,"woman":159,"children":0},"non_survived":{"men":325,"woman":47,"children":290}}
+ 
