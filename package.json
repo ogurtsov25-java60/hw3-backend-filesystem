@@ -1,0 +1,17 @@
+{
+  "name": "hw3-filesystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run_result": "node ./file_actions/works_with_file.js"
+  },
+  "keywords": [],
+  "author": "Anton",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "csv-parse": "^6.1.0"
+  }
+}
